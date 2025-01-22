@@ -1,0 +1,28 @@
+# PyCharm-specific files
+.idea/
+*.iml
+*.iws
+out/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.vscode/
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+build/
+dist/
+
+# Obsidian-specific files
+.obsidian/
+*.md~
+*.swp
+.Trash/
+Attachments/

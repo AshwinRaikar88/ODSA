@@ -1,2 +1,2 @@
 # ODSA
-OrchardAlgorithms and Data Structures
+Orchard Algorithms and Data Structures
